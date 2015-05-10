@@ -1,0 +1,4 @@
+ClientApp/bin/*
+LinqToTerraServerProvider/bin/*
+ClientApp/obj/*
+LinqToTerraServerProvider/obj/*
