@@ -19,7 +19,7 @@ namespace ClientApp
                         select place.PlaceType;
 
             foreach (PlaceType placeType in query)
-                Console.WriteLine(placeType);
+                Console.WriteLine("Place: " +placeType);
         }
     }
 }
